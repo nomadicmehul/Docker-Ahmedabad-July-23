@@ -1,4 +1,5 @@
-# ![Docker-Ahmedabad-July-23](./event-cover.jpg)
+![Docker-Ahmedabad-July-23](./event-cover.jpg)
+
 📢Join us for a [One Day workshop](https://www.meetup.com/docker-ahmedabad/events/294404615/) on Docker and Kubernetes!
 
 [![](https://img.shields.io/badge/Mehul-Patel-brightgreen.svg?colorB=00ff00)](https://www.nomadicmehul.com)
@@ -16,7 +17,7 @@
 * **Talk Abstract**: In the end of this workshop, you'll possess the essential skills and knowledge needed to confidently build custom Docker images and run your applications in containerized environments. Elevate your development workflow with Docker and unleash the true power of containerization.
 
 
-#### Speaker : [Dishant Makwana]
+#### Speaker : Dishant Makwana
 
 * **Title**: Container orchestration with Kubernetes
 
