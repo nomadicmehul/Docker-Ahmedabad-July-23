@@ -1,4 +1,4 @@
-![Docker-Ahmedabad-July-23](./event-cover.jpg)
+![Docker-Ahmedabad-July-23](./images/event-cover.jpg)
 
 📢Join us for a [One Day workshop](https://www.meetup.com/docker-ahmedabad/events/294404615/) on Docker and Kubernetes!
 
@@ -37,7 +37,7 @@
 * 📍 Venue: 7Span, 201, Isquare Corporate Park, Science City Rd, Science City.
 
 
-![](./speaker-cover.jpeg)
+![](./images/speaker-cover.jpeg)
 
 ✅ Prerequisites:
 - Bring your system (laptop) with you, should have Docker installed on it
