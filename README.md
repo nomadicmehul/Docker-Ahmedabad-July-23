@@ -21,6 +21,7 @@
 
 * **Title**: Container orchestration with Kubernetes
 
+### Meetup Details 
 
 * 🗓️ Date: 1st July'23
 * ⏰ Time: 11.00 AM to 02.00 PM
