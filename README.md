@@ -16,10 +16,19 @@
 * **Title**: 🐳 Mastering Docker: Build, Deploy, and Run Your First Containerised App
 * **Talk Abstract**: In the end of this workshop, you'll possess the essential skills and knowledge needed to confidently build custom Docker images and run your applications in containerized environments. Elevate your development workflow with Docker and unleash the true power of containerization.
 
+##### [Docker Basic Commands](https://github.com/nomadicmehul/CloudCaptain/blob/main/Docker/docker-basic-commands.md)   
+
+##### [Complete Docker Guide](https://github.com/nomadicmehul/CloudCaptain/tree/main/Docker)
+
 
 #### Speaker : Dishant Makwana
 
 * **Title**: Container orchestration with Kubernetes
+
+##### [Kubernetes Basic Commands](https://github.com/nomadicmehul/CloudCaptain/blob/main/Kubernetes/kubernetes-commands.md)   
+
+##### [Complete Kubernetes Guide](https://github.com/nomadicmehul/CloudCaptain/tree/main/Kubernetes)
+
 
 ### Meetup Details 
 
