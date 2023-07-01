@@ -8,6 +8,8 @@
 [![Twitter: Mehul Patel](https://img.shields.io/twitter/follow/nomadicmehul?style=social)](https://twitter.com/nomadicmehul)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=nomadicmehul&left_color=gray&right_color=blue)
 [![Medium Badge](https://img.shields.io/badge/-@Mehul%20Patel-black?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@nomadicmehul)](https://medium.com/@nomadicmehul)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCsbKUys6gsLn0lQbkIshIIQ)
+
 
 ### Talk Details 
 
@@ -43,6 +45,18 @@
 - Bring your system (laptop) with you, should have Docker installed on it
 - Should have minikube installed on your PC. 
 - Sign up for a free trial on Google Cloud (not necessary)
+
+<!-- TOC -->
+
+Also, Don't forget to check out our project "[CloudCaptain](https://github.com/nomadicmehul/CloudCaptain)" and get all things cloud-related!  
+
+We hope you find this project both informative and engaging.
+
+Don't forget to star this project to show your support for our initiatives. 
+
+Share your love on social media and proudly proclaim, *"Hey, I am a Cloud Captain! #BeaCloudCaptain!"* and included me in your journey by tagging me on [Twitter](https://twitter.com/NomadicMehul). 
+
+<!-- TOC -->
 
 ## 🛡️ License
 
