@@ -18,6 +18,8 @@
 * **Title**: 🐳 Mastering Docker: Build, Deploy, and Run Your First Containerised App
 * **Talk Abstract**: In the end of this workshop, you'll possess the essential skills and knowledge needed to confidently build custom Docker images and run your applications in containerized environments. Elevate your development workflow with Docker and unleash the true power of containerization.
 
+* 🪪 [Presentation Deck](./Mastering%20Docker_%20Build%2C%20Deploy%2C%20and%20Run%20Your%20First%20Containerized%20App.pdf.pdf)
+
 * ##### [Docker Basic Commands](https://github.com/nomadicmehul/CloudCaptain/blob/main/Docker/docker-basic-commands.md)   
 
 * ##### [Complete Docker Guide](https://github.com/nomadicmehul/CloudCaptain/tree/main/Docker)
