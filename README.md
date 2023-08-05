@@ -36,7 +36,7 @@
 
 ### Meetup Details 
 
-* 🗓️ Date: 1st July'23
+* 🗓️ Date: 5th August'23
 * ⏰ Time: 11.00 AM to 02.00 PM
 * 📍 Venue: 7Span, 201, Isquare Corporate Park, Science City Rd, Science City.
 
